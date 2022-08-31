@@ -1,0 +1,15 @@
+{
+	"name": "monorepo",
+	"scripts": {
+		"nx": "nx"
+	},
+	"devDependencies": {
+		"@angular-devkit/core": "^14.2.1",
+		"@angular-devkit/schematics": "^14.2.1",
+		"@nrwl/workspace": "^14.5.10",
+		"@astrojs/vercel": "^1.0.1",
+		"astro": "^1.1.1",
+		"nx": "^14.5.10",
+		"typescript": "^4.8.2"
+	}
+}
