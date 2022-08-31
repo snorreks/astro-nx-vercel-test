@@ -1,7 +1,7 @@
 {
 	"version": 2,
 	"projects": {
-		"test": "apps/test"
+		"astro-app": "apps/astro-app"
 	
 	}
 }

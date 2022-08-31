@@ -1,7 +1,8 @@
 {
 	"name": "monorepo",
 	"scripts": {
-		"nx": "nx"
+		"dev": "nx dev",
+		"build": "nx build"
 	},
 	"devDependencies": {
 		"@angular-devkit/core": "^14.2.1",

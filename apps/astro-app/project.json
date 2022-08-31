@@ -1,0 +1,5 @@
+{
+	"root": "apps/astro-app",
+	"projectType": "application",
+	"sourceRoot": "apps/astro-app/src"
+}
